@@ -12,7 +12,7 @@ Project ini merupakan penerapan Deep Neural Network (DNN) untuk menyelesaikan pe
 📊 Dataset
 - Dataset yang digunakan berupa data numerik dengan target biner (0 dan 1).
 - Dataset ini digunakan untuk studi kasus klasifikasi dan dibagi menjadi data latih dan data uji sebelum masuk ke tahap training.
-Sumber dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
+- Sumber dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 
 🏗️ Arsitektur Model
 Model yang digunakan adalah Deep Neural Network dengan struktur:
